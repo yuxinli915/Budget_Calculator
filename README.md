@@ -3,6 +3,8 @@ A Web App built with JavaScript objects, prototypes and classes. Integrated OOP 
 
 ## Instruction
 
+Link is on the right side.
+
 You can add income or outcome to the revelant column.
 
 The app automatically calculates your budget.
